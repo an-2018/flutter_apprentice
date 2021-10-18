@@ -6,6 +6,9 @@
       <excludeFolder url="file://$MODULE_DIR$/secction_1_build_first_flutter_app_/recipes/build" />
       <excludeFolder url="file://$MODULE_DIR$/secction_1_build_first_flutter_app_/recipes/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/secction_1_build_first_flutter_app_/recipes/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/secction_3_basic_widgets/fooderlich/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/secction_3_basic_widgets/fooderlich/build" />
+      <excludeFolder url="file://$MODULE_DIR$/secction_3_basic_widgets/fooderlich/.pub" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

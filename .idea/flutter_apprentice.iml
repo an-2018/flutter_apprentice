@@ -9,6 +9,9 @@
       <excludeFolder url="file://$MODULE_DIR$/secction_3_basic_widgets/fooderlich/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/secction_3_basic_widgets/fooderlich/build" />
       <excludeFolder url="file://$MODULE_DIR$/secction_3_basic_widgets/fooderlich/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/secction_2_everythings_widget/fooderlich/build" />
+      <excludeFolder url="file://$MODULE_DIR$/secction_2_everythings_widget/fooderlich/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/secction_2_everythings_widget/fooderlich/.pub" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
